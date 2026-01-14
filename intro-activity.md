@@ -8,9 +8,9 @@ Society
 ---
 # 2 Objects
 ## Object 1
-Political Ideology: Anarchy
-Religion: Animism
+- Political Ideology: Anarchy
+- Religion: Animism
 
 ## Object 2
-Political Ideology: Absoulute Monarchy
-Religion: Sacred Kingship
+- Political Ideology: Absoulute Monarchy
+- Religion: Sacred Kingship
