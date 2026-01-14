@@ -5,6 +5,7 @@ Society
 - Political Ideology
 - Religion
 
+---
 # 2 Objects
 ## Object 1
 Political Ideology: Anarchy
