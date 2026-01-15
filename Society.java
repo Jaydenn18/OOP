@@ -10,7 +10,7 @@ public class Society {
         System.out.printf("""
             
             The Kingdom of %s is ruled by %s %s.
-            Their follow %s as their political ideology.
+            They follow %s as their political ideology.
             They practice %s as their religion.
             They have a population of %d
 
